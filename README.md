@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
- <a href="#"><img title="Ikymd" src="https://img.shields.io/badge/BotzzMee-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Ikymd" src="https://img.shields.io/badge/Ikymd-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/BaraXD"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ikymd-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ikymd"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Ikymd-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ---------
@@ -22,7 +22,7 @@
   <a href="https://www.tiktok.com/@lampu_slebew">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/lampu_philips267">
+  <a href="https://www.instagram.com/sih_bot">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
 ---------
