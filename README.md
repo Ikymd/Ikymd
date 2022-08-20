@@ -27,7 +27,7 @@
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6283174508962"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/628569168671"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628979530736) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283174508962) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T) 
@@ -36,11 +36,11 @@
 
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/BaraXD)
-* [`My parents`](https://github.com/BaraXD)
-* [`All Friends`](https://github.com/BaraXD)
-* [`All Contributors`](https://github.com/BaraXD)
-* [`All Creator Bot`](https://github.com/BaraXD)
+* [`Allah SWT`](https://github.com/Ikymd)
+* [`My parents`](https://github.com/Ikymd)
+* [`All Friends`](https://github.com/Ikymd)
+* [`All Contributors`](https://github.com/Ikymd)
+* [`All Creator Bot`](https://github.com/Ikymd)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
