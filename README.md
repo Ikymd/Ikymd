@@ -1,4 +1,4 @@
-# HinataNew
+# Ikymd
 
 <p align="center">
 	<img src="https://p4.wallpaperbetter.com/wallpaper/888/673/160/naruto-hinata-hy%C5%ABga-naruto-uzumaki-starry-sky-hd-wallpaper-preview.jpg" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -23,7 +23,7 @@
 
 
 #### Join Group
-[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/ITjd9jsIfBAK5byfdb2cxj)
+[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://https://chat.whatsapp.com/HXZb5hGAhH4D8AEF3dh8Ne)
 
 
 ### Thanks To 
