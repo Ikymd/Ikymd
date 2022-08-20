@@ -45,8 +45,8 @@
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
 
-## ```my group 🐾```
-[![kannachann](https://github.com/BaraXD.png?size=100)](https://github.com/BaraXD)
+## ```my github 🐾```
+[![kannachann](https://github.com/Ikymd.png?size=100)](https://Ikymd)
 
 ## ```Contributor 🔭```
 * [`SadBOY01`](https://github.com/sadboy01)
@@ -61,7 +61,7 @@
 </p>
 
 <!--
-**SatriaAPN/SatriaAPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ikymd/Ikymd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
