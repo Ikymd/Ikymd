@@ -1,6 +1,6 @@
 ### Hi there, I'm Ikymd 👋
 <p align="center">
-    <img src="https://telegra.ph/file/55afe092c35bc67058664.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/ed343654456d8e73f2288.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">IM ikymd</h1>
 <p align="center">
